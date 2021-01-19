@@ -1,0 +1,29 @@
+,Info: 4 MM - Lead by company a,Task 1.1 - create an initial project plan,Task 1.2 - create trello entries,Task 1.3 - write report,Deliverable 1.1 - project plan,Deliverable 1.2 - final project plan,Info: 6 MM - Lead by company b,Task 2.1 - create draft architecture,Task 2.2 - review draft architecture with client,Task 2.3 - publish architecture,Deliverable 2.1 - published architecture document,Info: 5MM - Lead by company a,Task 3.1 - create a great demonstrator,Deliverable 3.1 working demonstrator,Info: 3 MM - lead by company c,Task 4.1 document everything,Deliverable 4.1 released documentation,M1 Release of inital plan,M2 Demonstrator ready,M3 Project closed
+status,Open,Closed,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open,Open
+list,WP01 - Project management,WP01 - Project management,WP01 - Project management,WP01 - Project management,WP01 - Project management,WP01 - Project management,WP02 - Architecture,WP02 - Architecture,WP02 - Architecture,WP02 - Architecture,WP02 - Architecture,WP03 - Demonstrator,WP03 - Demonstrator,WP03 - Demonstrator,WP04 - Documentation,WP04 - Documentation,WP04 - Documentation,Milestones,Milestones,Milestones
+label,Info,Task,Task,Task,Deliverable,Deliverable,Info,Task,Task,Task,Deliverable,Info,Task,Deliverable,Info,Task,Deliverable,Milestones,Milestones,Milestones
+desc,Goal of this WP is to ensure proper **project management**,,,,,,,The architecture needs to be really good!,,,,,,,,,,,,
+activity0,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard,createCard
+date0,2019-05-20T08:13,2019-05-20T08:13,2019-05-20T08:14,2019-05-20T08:14,2019-05-20T08:17,2019-05-20T08:17,2019-05-20T08:13,2019-05-20T08:14,2019-05-20T08:15,2019-05-20T08:16,2019-05-20T08:19,2019-05-20T08:13,2019-05-20T08:16,2019-05-20T08:19,2019-05-20T08:13,2019-05-20T08:16,2019-05-20T08:20,2019-05-20T08:14,2019-05-20T08:14,2019-05-20T08:14
+user0,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt,tillwitt
+activity1,updateCard,updateCard,commentCard,addChecklistToCard,,,updateCard,updateCard,commentCard,,updateCard,updateCard,,,,,,,,
+date1,2019-05-20T08:21,2019-05-20T08:21,2019-05-20T08:25,2019-05-20T08:37,,,2019-05-20T08:16,2019-05-20T08:15,2019-05-20T08:15,,2019-05-20T08:19,2019-05-20T08:16,,,,,,,,
+user1,tillwitt,tillwitt,tillwitt,tillwitt,,,tillwitt,tillwitt,tillwitt,,tillwitt,tillwitt,,,,,,,,
+activity2,updateCard,updateCard,,updateCheckItemStateOnCard,,,,,commentCard,,,,,,,,,,,
+date2,2019-05-20T08:21,2019-05-20T08:21,,2019-05-20T08:37,,,,,2019-05-20T08:15,,,,,,,,,,,
+user2,tillwitt,tillwitt,,tillwitt,,,,,tillwitt,,,,,,,,,,,
+activity3,updateCard,updateCard,,,,,,,,,,,,,,,,,,
+date3,2019-05-20T08:24,2019-05-20T08:23,,,,,,,,,,,,,,,,,,
+user3,tillwitt,tillwitt,,,,,,,,,,,,,,,,,,
+activity4,updateCard,updateCard,,,,,,,,,,,,,,,,,,
+date4,2019-05-20T08:24,2019-05-20T08:23,,,,,,,,,,,,,,,,,,
+user4,tillwitt,tillwitt,,,,,,,,,,,,,,,,,,
+activity5,,commentCard,,,,,,,,,,,,,,,,,,
+date5,,2019-05-20T08:23,,,,,,,,,,,,,,,,,,
+user5,,tillwitt,,,,,,,,,,,,,,,,,,
+activity6,,updateCard,,,,,,,,,,,,,,,,,,
+date6,,2019-05-20T08:24,,,,,,,,,,,,,,,,,,
+user6,,tillwitt,,,,,,,,,,,,,,,,,,
+activity7,,commentCard,,,,,,,,,,,,,,,,,,
+date7,,2019-05-20T08:24,,,,,,,,,,,,,,,,,,
+user7,,tillwitt,,,,,,,,,,,,,,,,,,
