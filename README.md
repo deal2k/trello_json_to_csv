@@ -11,3 +11,5 @@ That information is hard to represent e.g. in a single row in Excel, since some 
 
 ## Solution
 Trello.py script uses Python's library Pandas to export from JSON file selected keys with required information to DataFrame structure. Resulted CSV file has vertical structure where each column is a separate task (card) with different information bellow: name, description, label, actions, dates, usernames, etc. Date exported to CSV file can be used for storrage or further formatting using Excel, Numbers, Google sheets or similar apps.
+
+![alt text](https://github.com/deal2k/trello_json_to_csv/blob/main/trello.png?raw=true)
